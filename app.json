@@ -1,0 +1,6 @@
+{
+  "name": "List Environment Variables",
+  "description": "A barebones Ruby app to list all environment variables",
+  "repository": "https://github.com/jonmountjoy/list-environment-variables",
+  "keywords": ["ruby", "heroku", "sinatra"]
+}
