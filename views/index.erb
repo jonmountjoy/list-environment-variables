@@ -3,7 +3,7 @@
     <title>Environment Variables</title>
   </head>
   <body>
-    <% ENV.each do |key, value| %>
+    <% ENV.sort.each do |key, value| %>
       <strong><%= key %></strong>
       =>
       <%= value %><br/>
